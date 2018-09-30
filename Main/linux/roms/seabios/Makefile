@@ -1,0 +1,1 @@
+/home/tux/qemu-ios-master/roms/seabios/Makefile
